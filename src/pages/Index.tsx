@@ -25,7 +25,7 @@ const Index = () => {
           <div className="flex items-center gap-3">
             <CalendarIcon className="w-8 h-8 text-primary" />
             <div>
-              <h1 className="text-2xl font-bold text-foreground">2026 年历</h1>
+              <h1 className="text-2xl font-bold text-foreground">2026 年历1111</h1>
               <p className="text-sm text-muted-foreground">全年日历一览</p>
             </div>
           </div>
